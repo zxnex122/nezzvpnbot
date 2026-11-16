@@ -1,0 +1,2 @@
+# nezzvpnbot
+Free VPN
